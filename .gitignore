@@ -1,0 +1,4 @@
+.pio/
+.idea/
+cmake-build-nanoatmega328/
+CMakeListsPrivate.txt
